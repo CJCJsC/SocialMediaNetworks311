@@ -1,13 +1,11 @@
-# Adding a user node
-
-# Adding a post node with attributes
-
-# Creating connections
-# Authorship
-
-# Follows
-
-# Views
+# Adding a user dataset
+# username
+# real_name
+# age
+# gender
+# connections
+# posts made
+  # post data
 
 # Define colors for different connection types
 
